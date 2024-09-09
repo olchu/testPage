@@ -1,5 +1,5 @@
 .no-select {
-  color: red;
+  color: green;
   user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
-  text-decoration: none;
+  text-decoration: none!important;
 }

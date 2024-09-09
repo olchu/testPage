@@ -3,4 +3,5 @@
   user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
   text-decoration: none !important;
   pointer-events: none;
+  text-transform: none;
 }
